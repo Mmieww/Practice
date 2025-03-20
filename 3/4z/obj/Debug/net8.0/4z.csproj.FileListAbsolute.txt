@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\bin\Debug\net8.0\4z.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\bin\Debug\net8.0\4z.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\bin\Debug\net8.0\4z.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\bin\Debug\net8.0\4z.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\bin\Debug\net8.0\4z.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\refint\4z.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\4z.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\4z\obj\Debug\net8.0\ref\4z.dll
