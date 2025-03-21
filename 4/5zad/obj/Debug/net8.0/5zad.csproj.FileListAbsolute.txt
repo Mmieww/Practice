@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\bin\Debug\net8.0\5zad.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\bin\Debug\net8.0\5zad.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\bin\Debug\net8.0\5zad.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\bin\Debug\net8.0\5zad.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\bin\Debug\net8.0\5zad.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\refint\5zad.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\5zad.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\5zad\obj\Debug\net8.0\ref\5zad.dll
