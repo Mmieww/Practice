@@ -1,0 +1,14 @@
+C:\Users\miew\source\repos\zn1\bin\Debug\net8.0\zn1.exe
+C:\Users\miew\source\repos\zn1\bin\Debug\net8.0\zn1.deps.json
+C:\Users\miew\source\repos\zn1\bin\Debug\net8.0\zn1.runtimeconfig.json
+C:\Users\miew\source\repos\zn1\bin\Debug\net8.0\zn1.dll
+C:\Users\miew\source\repos\zn1\bin\Debug\net8.0\zn1.pdb
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.AssemblyInfoInputs.cache
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.AssemblyInfo.cs
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.csproj.CoreCompileInputs.cache
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.dll
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\refint\zn1.dll
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.pdb
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\zn1.genruntimeconfig.cache
+C:\Users\miew\source\repos\zn1\obj\Debug\net8.0\ref\zn1.dll
