@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\bin\Debug\net8.0\zd4.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\bin\Debug\net8.0\zd4.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\bin\Debug\net8.0\zd4.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\bin\Debug\net8.0\zd4.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\bin\Debug\net8.0\zd4.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\refint\zd4.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\zd4.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zd4\obj\Debug\net8.0\ref\zd4.dll
