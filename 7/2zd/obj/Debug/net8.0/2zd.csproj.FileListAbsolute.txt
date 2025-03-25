@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\bin\Debug\net8.0\2zd.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\bin\Debug\net8.0\2zd.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\bin\Debug\net8.0\2zd.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\bin\Debug\net8.0\2zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\bin\Debug\net8.0\2zd.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\refint\2zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\2zd.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\2zd\obj\Debug\net8.0\ref\2zd.dll

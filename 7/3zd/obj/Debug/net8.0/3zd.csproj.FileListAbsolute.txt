@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\bin\Debug\net8.0\3zd.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\bin\Debug\net8.0\3zd.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\bin\Debug\net8.0\3zd.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\bin\Debug\net8.0\3zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\bin\Debug\net8.0\3zd.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\refint\3zd.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\3zd.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\3zd\obj\Debug\net8.0\ref\3zd.dll
