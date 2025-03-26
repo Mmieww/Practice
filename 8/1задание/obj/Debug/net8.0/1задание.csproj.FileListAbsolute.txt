@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\bin\Debug\net8.0\1задание.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\bin\Debug\net8.0\1задание.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\bin\Debug\net8.0\1задание.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\bin\Debug\net8.0\1задание.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\bin\Debug\net8.0\1задание.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\refint\1задание.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\1задание.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\1задание\obj\Debug\net8.0\ref\1задание.dll
