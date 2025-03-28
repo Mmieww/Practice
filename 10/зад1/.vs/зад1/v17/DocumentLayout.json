@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04341\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A390E72-E5CB-409C-981A-5A3862478586}|\u0437\u0430\u04341.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\\u0437\u0430\u04341\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A390E72-E5CB-409C-981A-5A3862478586}|\u0437\u0430\u04341.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9632A100-51EE-4652-BCF4-6F21140CA6C4}|..\\\u0437\u0430\u04343\\\u0437\u0430\u04343.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\\u0437\u0430\u04343\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF89CE9-80EA-46FE-ACEC-E18DE57AA246}|..\\\u0437\u0430\u04342\\\u0437\u0430\u04342.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\\u0437\u0430\u04342\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04343\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u0437\u0430\u04343\\Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04343\\Program.cs",
+              "RelativeToolTip": "..\\\u0437\u0430\u04343\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:24:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04342\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\u0437\u0430\u04342\\Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04342\\Program.cs",
+              "RelativeToolTip": "..\\\u0437\u0430\u04342\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:20:45.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04341\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\\u0437\u0430\u04341\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:13:32.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

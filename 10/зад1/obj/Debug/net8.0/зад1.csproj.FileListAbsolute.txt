@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\bin\Debug\net8.0\зад1.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\bin\Debug\net8.0\зад1.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\bin\Debug\net8.0\зад1.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\bin\Debug\net8.0\зад1.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\bin\Debug\net8.0\зад1.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\refint\зад1.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\зад1.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\зад1\obj\Debug\net8.0\ref\зад1.dll
