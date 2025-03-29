@@ -1,0 +1,14 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\bin\Debug\net8.0\zadanie1.11.exe
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\bin\Debug\net8.0\zadanie1.11.deps.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\bin\Debug\net8.0\zadanie1.11.runtimeconfig.json
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\bin\Debug\net8.0\zadanie1.11.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\bin\Debug\net8.0\zadanie1.11.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.AssemblyInfoInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.AssemblyInfo.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.csproj.CoreCompileInputs.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\refint\zadanie1.11.dll
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.pdb
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\zadanie1.11.genruntimeconfig.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.11\obj\Debug\net8.0\ref\zadanie1.11.dll

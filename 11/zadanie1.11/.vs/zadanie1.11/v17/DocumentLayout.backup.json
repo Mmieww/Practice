@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1.11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27371FA0-4C7E-4614-8EB1-8A2AC67CC518}|zadanie1.11.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1.11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27371FA0-4C7E-4614-8EB1-8A2AC67CC518}|zadanie1.11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FA50EF-EEE7-45B4-9127-DD0D1B9E5C33}|..\\zadanie3.11\\zadanie3.11.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie3.11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1E8B95-0402-45E6-A671-529E896D5829}|..\\zadanie2.11\\zadanie2.11.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie2.11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie3.11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\zadanie3.11\\Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie3.11\\Program.cs",
+              "RelativeToolTip": "..\\zadanie3.11\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:29:31.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie2.11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\zadanie2.11\\Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie2.11\\Program.cs",
+              "RelativeToolTip": "..\\zadanie2.11\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwE4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:13:26.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1.11\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1.11\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T06:10:29.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
