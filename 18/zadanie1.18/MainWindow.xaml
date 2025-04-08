@@ -1,0 +1,34 @@
+﻿<Window x:Class="zadanie1._18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Event Organizer" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Events">
+                <StackPanel>
+                    <DataGrid ItemsSource="{Binding Events.Items}" 
+                              SelectedItem="{Binding Events.SelectedItem}" 
+                              AutoGenerateColumns="True"/>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Button Content="Load Events" Command="{Binding Events.LoadCommand}" />
+                        <Button Content="Add Event" Command="{Binding Events.AddCommand}" Margin="5,0" />
+                        <Button Content="Delete Event" Command="{Binding Events.DeleteCommand}" />
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+            
+            <TabItem Header="Participants">
+                <StackPanel>
+                    <DataGrid ItemsSource="{Binding Participants.Items}" 
+                              SelectedItem="{Binding Participants.SelectedItem}" 
+                              AutoGenerateColumns="True"/>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Button Content="Load Participants" Command="{Binding Participants.LoadCommand}" />
+                        <Button Content="Add Participant" Command="{Binding Participants.AddCommand}" Margin="5,0" />
+                        <Button Content="Delete Participant" Command="{Binding Participants.DeleteCommand}" />
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

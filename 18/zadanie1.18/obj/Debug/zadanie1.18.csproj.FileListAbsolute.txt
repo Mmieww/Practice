@@ -1,0 +1,5 @@
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18.csproj.AssemblyReference.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\MainWindow.g.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\App.g.cs
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18_MarkupCompile.cache
+C:\Users\miew\OneDrive\Desktop\Практика С#\zadanie1.18\obj\Debug\zadanie1.18_MarkupCompile.lref
