@@ -1,0 +1,20 @@
+﻿@page
+@model zadanie1_19.Models.StudyTask
+
+<h2>Add New Task</h2>
+
+<form asp-action="Add" method="post">
+    <div>
+        <label asp-for="Subject"></label>
+        <input asp-for="Subject" required />
+    </div>
+    <div>
+        <label asp-for="DeadLine"></label>
+        <input asp-for="DeadLine" type="data" required />
+    </div>
+    <div>
+        <input type="submit" value="Add Task" />
+    </div>
+</form>
+ 
+<a href="@Url.Action("Upcoming", "Study")">Back to Upcoming Tasks</a>

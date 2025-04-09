@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\controllers\\studycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:controllers\\studycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:models\\studytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\views\\upcoming.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:views\\upcoming.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|c:\\users\\miew\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0441#\\zadanie1_19\\views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797621DA-1B1E-4ED1-881F-527FFD2F31E2}|zadanie1_19.csproj|solutionrelative:views\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:48:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T11:48:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T11:47:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Add.cshtml",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Add.cshtml",
+              "RelativeToolTip": "Views\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:35:28.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upcoming.cshtml",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Upcoming.cshtml",
+              "RelativeDocumentMoniker": "Views\\Upcoming.cshtml",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Views\\Upcoming.cshtml",
+              "RelativeToolTip": "Views\\Upcoming.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T10:27:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudyController.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Controllers\\StudyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudyController.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Controllers\\StudyController.cs",
+              "RelativeToolTip": "Controllers\\StudyController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:17:56.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudyTask.cs",
+              "DocumentMoniker": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Models\\StudyTask.cs",
+              "RelativeDocumentMoniker": "Models\\StudyTask.cs",
+              "ToolTip": "C:\\Users\\miew\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0421#\\zadanie1_19\\Models\\StudyTask.cs",
+              "RelativeToolTip": "Models\\StudyTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:11:35.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
