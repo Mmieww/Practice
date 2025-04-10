@@ -1,0 +1,15 @@
+﻿@page
+@model zadanie1_19.Models.StudyTask
+
+<h2>Delete Task</h2>
+
+<p>Are you sure you want to delete the task: <strong>@Model.Subject</strong>?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <input type="submit" value="Delete" class="btn btn-danger" />
+    </div>
+</form>
+
+<a href="@Url.Action("Upcoming", "Study")">Cancel</a>

@@ -1,0 +1,31 @@
+﻿@page
+@model List<zadanie1_19.Models.StudyTask>
+
+<h2>Upcoming Study Tasks</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>DeadLine</th>
+            <th>Completed</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model)
+        {
+            <tr>
+                <td>@task.Subject</td>
+                <td>@task.DeadLine.ToShortDateString()</td>
+                <td>@task.Completed.ToString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@task.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@task.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Add", "Study")" class="btn btn-success mt-3">Add New Task</a>
