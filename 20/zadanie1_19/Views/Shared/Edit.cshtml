@@ -1,0 +1,41 @@
+﻿@page
+@model zadanie1_19.Models.StudyTaskViewModel
+
+<h2>Edit Task</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label asp-for="Subject"></label>
+        <input asp-for="Subject" required />
+        <span asp-validation-for="Subject" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="DeadLine"></label>
+        <input asp-for="DeadLine" type="date" required />
+        <span asp-validation-for="DeadLine" class="text-danger"></span>
+    </div>
+    <div>
+        <label asp-for="Priority">Priority</label>
+        <select asp-for="Priority" class="form-control" required>
+            <option value="">Select Priority</option>
+            <option value="1">Low</option>
+            <option value="2">Medium</option>
+            <option value="3">High</option>
+        </select>
+        <span asp-validation-for="Priority" class="text-danger"></span>
+    </div>
+    <div>
+        <input type="submit" value="Save Changes" class="btn btn-primary" />
+    </div>
+</form>
+
+<a href="@Url.Action("Upcoming", "Study")">Back to Upcoming Tasks</a>
+
